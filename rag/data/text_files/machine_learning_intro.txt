@@ -1,0 +1,9 @@
+ Machine Learning (ML) is a branch of Artificial Intelligence (AI) that enables computers to learn from data and make predictions or decisions without being explicitly programmed for every task.  Unlike traditional programming where algorithms are manually coded to produce results, ML creates algorithms from data and results, allowing systems to identify patterns and improve performance over time. 
+
+The core process involves several key steps:
+
+Data: Starting with inputs such as text, images, or numbers. 
+Algorithm: Selecting a method like classification, regression, or clustering. 
+Training: The algorithm learns patterns from the data to build a model. 
+Prediction: The trained model applies these patterns to new, unseen data. 
+ML is broadly categorized into Supervised Learning (using labeled data), Unsupervised Learning (finding patterns in unlabeled data), and Reinforcement Learning (learning through feedback).  It is foundational to modern AI applications, including image recognition, speech processing, recommender systems, and autonomous vehicles. 

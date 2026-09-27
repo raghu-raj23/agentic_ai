@@ -1,9 +1,10 @@
-langchain
-langchain_community
 langgraph
 langsmith
 python-dotenv
 ipykernel
+langchain
+langchain-core
+langchain-community
 langchain_tavily
 langchain-openai
 langchain-groq
@@ -11,3 +12,6 @@ langchain-google-genai
 langchain_ollama
 langchain-mcp-adapters
 mcp
+pypdf
+pymupdf
+tdqm
