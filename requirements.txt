@@ -5,6 +5,7 @@ ipykernel
 langchain
 langchain-core
 langchain-community
+langchain_text_splitters
 langchain_tavily
 langchain-openai
 langchain-groq
@@ -15,3 +16,6 @@ mcp
 pypdf
 pymupdf
 tdqm
+sentence-transformers
+faiss-cpu
+chromadb
